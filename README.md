@@ -1,5 +1,5 @@
 <h1>Hi! My name is Pedro Jerónimo!</h1>
-<a href="mailto:pedromanueljeronimo2005@gmail.com"><h2>✉️ pedromanueljeronimo2005@gmail.com</h2></a>
+<h2><a href="mailto:pedromanueljeronimo2005@gmail.com">✉️ pedromanueljeronimo2005@gmail.com</a></h2>
 <hr>
 <h2>👀 Not bad at...</h2>
 <ul>
