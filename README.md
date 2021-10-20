@@ -1,5 +1,5 @@
 <h1>Hi! My name is Pedro Jerónimo!</h1>
-![](https://visitor-badge.laobi.icu/badge?page_id=pedrojeronim0.pedrojeronim0)
+![](https://visitor-badge.laobi.icu/badge?page_id=pedrojeronim0)
 <h2 "display:flex;align-items:center">👀 Not bad at...</h2>
 <ul>
  <li>HTML</li>
