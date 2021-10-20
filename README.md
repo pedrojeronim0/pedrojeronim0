@@ -6,7 +6,7 @@
  <li>CSS</li>
  <li>JS</li>
  </ul>
-<hr>
+
 <h2 style:"display:flex;align-items:center">🌱 The basics of...</h2>
 <ul>
 <li>C++</li>
