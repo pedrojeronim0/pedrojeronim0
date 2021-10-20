@@ -1,4 +1,5 @@
 <h1>Hi! My name is Pedro Jerónimo!</h1>
+<hr>
 <h2 "display:flex;align-items:center">👀 Not bad at...</h2>
 <ul>
  <li>HTML</li>
