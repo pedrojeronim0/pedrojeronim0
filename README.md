@@ -21,16 +21,6 @@
 
 ## 🛠 Tools & Skills
 
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Enterprise Architect](https://img.shields.io/badge/Sparx%20Systems-Enterprise%20Architect-blue?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge)
-![Network Programming](https://img.shields.io/badge/Network%20Programming-TCP%20%7C%20UDP-blue?style=for-the-badge)
-![IPC](https://img.shields.io/badge/IPC-Pipes-blue?style=for-the-badge)
-![Concurrent Programming](https://img.shields.io/badge/Concurrent%20Programming-Multithreading%20%7C%20Multiprocessing-green?style=for-the-badge)
-
-## 🛠 Tools & Skills
-
 ### Hardware & IoT
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
