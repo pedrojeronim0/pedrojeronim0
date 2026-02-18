@@ -34,3 +34,14 @@
 ![Network Programming](https://img.shields.io/badge/Network%20Programming-TCP%20%7C%20UDP-blue?style=for-the-badge)
 ![IPC](https://img.shields.io/badge/IPC-Pipes-blue?style=for-the-badge)
 ![Concurrent Programming](https://img.shields.io/badge/Concurrent%20Programming-Multithreading%20%7C%20Multiprocessing-green?style=for-the-badge)
+
+---
+
+## 🤝 Soft Skills
+
+![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FFAA00?style=for-the-badge)
+![Teamwork](https://img.shields.io/badge/Teamwork-1ABC9C?style=for-the-badge)
+![Communication](https://img.shields.io/badge/Communication-3498DB?style=for-the-badge)
+![Time Management](https://img.shields.io/badge/Time%20Management-E74C3C?style=for-the-badge)
+![Adaptability](https://img.shields.io/badge/Adaptability-9B59B6?style=for-the-badge)
+![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-F39C12?style=for-the-badge)
