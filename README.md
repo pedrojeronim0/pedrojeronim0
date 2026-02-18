@@ -6,6 +6,14 @@
 
 ---
 
+**Robotics Code Raul (2021 – 2023)**  
+- Member of the high school robotics team.  
+- Participated in two editions of the **National Robotics Festival**.  
+- Achieved **3rd place in the RoboCup Junior Rescue Line** and qualified for the **European RoboCup Junior** in 2023.  
+- Responsible for robot programming, sensor integration, and teamwork.
+
+---
+
 ## 💻 Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
