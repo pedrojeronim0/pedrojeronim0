@@ -1,5 +1,5 @@
 <p align="center">
-<h1>Pedro Jerónimo</strong> <\h1>
+<h1Pedro Jerónimo</strong>\>
 🎓 BSc in Computer Science and Engineering [18/20] <br>
 📍 Instituto Superior Técnico, Lisbon <br>
 ✉️ pedromanueljeronimo2005@gmail.com <br>
