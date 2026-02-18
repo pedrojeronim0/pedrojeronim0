@@ -1,9 +1,8 @@
-<h2><a href="mailto:pedromanueljeronimo2005@gmail.com">✉️ pedromanueljeronimo2005@gmail.com</a></h2>
-
 # Pedro Jerónimo
 
 🎓 BSc in Computer Science and Engineering  
-📍 Instituto Superior Técnico, Lisbon  
+📍 Instituto Superior Técnico, Lisbon
+✉️ pedromanueljeronimo2005@gmail.com
 
 ---
 
@@ -23,7 +22,6 @@
 ## 🛠 Tools
 
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Enterprise Architect](https://img.shields.io/badge/Enterprise%20Architect-000000?style=for-the-badge)
+![Enterprise Architect](https://img.shields.io/badge/Sparx%20Systems-Enterprise%20Architect-blue?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge)
-![Sockets](https://img.shields.io/badge/Sockets-Networking-blue?style=for-the-badge)
