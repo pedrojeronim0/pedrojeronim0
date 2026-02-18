@@ -2,9 +2,9 @@
 <p align="center">
 🎓 BSc in Computer Science and Engineering [18/20] <br>
 📍 Instituto Superior Técnico, Lisbon <br>
-✉️ pedromanueljeronimo2005@gmail.com |
-<a href="https://www.linkedin.com/in/pedro-jer%C3%B3nimo-416340374" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="24" height="24" alt="LinkedIn">
+✉️ pedromanueljeronimo2005@gmail.com &nbsp;
+<a href="https://www.linkedin.com/in/seu-linkedin" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v8/icons/linkedin.svg" width="28" height="28" style="vertical-align:middle; filter: brightness(0) invert(1);" alt="LinkedIn">
 </a> <br>
 </p>
 
