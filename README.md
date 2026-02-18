@@ -25,3 +25,4 @@
 ![Enterprise Architect](https://img.shields.io/badge/Sparx%20Systems-Enterprise%20Architect-blue?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge)
+![Socket Programming](https://img.shields.io/badge/Socket%20Programming-TCP%20%7C%20UDP-blue?style=for-the-badge)
