@@ -44,6 +44,7 @@
 
 ### Data & API Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Bruno](https://img.shields.io/badge/Bruno-FFC56D?style=for-the-badge)
 
 ### Software Skills
