@@ -1,4 +1,4 @@
-<h1 align="center">Pedro Jerónimo</h1>
+<h1 align="center"><strongPedro Jerónimo/></h1>
 <p align="center">
 🎓 BSc in Computer Science and Engineering [18/20] <br>
 📍 Instituto Superior Técnico, Lisbon <br>
