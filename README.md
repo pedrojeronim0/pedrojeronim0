@@ -42,14 +42,14 @@
 ![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+### Data & API Tools
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Bruno](https://img.shields.io/badge/Bruno-The%20Git-native%20API%20Client-blue?style=for-the-badge)
+
 ### Software Skills
 ![Network Programming](https://img.shields.io/badge/Network%20Programming-TCP%20%7C%20UDP-blue?style=for-the-badge)
 ![IPC](https://img.shields.io/badge/IPC-Pipes-blue?style=for-the-badge)
 ![Concurrent Programming](https://img.shields.io/badge/Concurrent%20Programming-Multithreading%20%7C%20Multiprocessing-green?style=for-the-badge)
-
-### Data & API Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-The%20Git-native%20API%20Client-blue?style=for-the-badge)
 
 ---
 
