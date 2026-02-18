@@ -44,7 +44,7 @@
 
 ### Data & API Tools
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-Git%20API%20Client-blue?style=for-the-badge)
+![Bruno](https://img.shields.io/badge/Bruno-FFC56D?style=for-the-badge)
 
 ### Software Skills
 ![Network Programming](https://img.shields.io/badge/Network%20Programming-TCP%20%7C%20UDP-blue?style=for-the-badge)
