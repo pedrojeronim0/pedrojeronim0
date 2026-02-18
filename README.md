@@ -1,14 +1,10 @@
+<p align="center">
 # Pedro Jerónimo
 
-<p align="center">
 🎓 BSc in Computer Science and Engineering [18/20] <br>
 📍 Instituto Superior Técnico, Lisbon <br>
 ✉️ pedromanueljeronimo2005@gmail.com <br>
 </p>
-
-🎓 BSc in Computer Science and Engineering  [18/20] <br>
-📍 Instituto Superior Técnico, Lisbon <br>
-✉️ pedromanueljeronimo2005@gmail.com <br>
 
 ---
 ## 🤖 Robotics Experience
