@@ -5,6 +5,7 @@
 ✉️ pedromanueljeronimo2005@gmail.com <br>
 
 ---
+## 🤖 Robotics Experience
 
 **Robotics Code Raul (2021 – 2023)**  
 - Member of the high school robotics team.  
