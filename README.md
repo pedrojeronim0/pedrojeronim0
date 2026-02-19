@@ -8,19 +8,8 @@
 </p>
 
 ---
-## 🤖 Robotics Experience
-
-**Robotics Code Raul (2021 – 2023)**  
-- Member of the high school robotics team.  
-- Participated in two editions of the **National Robotics Festival**.  
-- Achieved 🥉 **3rd place in the RoboCup Junior Rescue Line** and qualified for the **European RoboCup Junior** in 2023.  
-- Responsible for robot programming, sensor integration, and team coordination.
-
----
 
 ## 💻 Languages
-
-C • C++ • Java • Python • Prolog • Assembly RISC-V • HTML5 • CSS3 • SQL
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
@@ -34,34 +23,9 @@ C • C++ • Java • Python • Prolog • Assembly RISC-V • HTML5 • CSS3 
 
 ---
 
-## 🛠 Tools & Skills
+## 🛠 Technical Skills
 
-### Hardware & IoT
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-![Arduino IDE](https://img.shields.io/badge/Arduino%20IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
-
-### Modeling & Design
-![Enterprise Architect](https://img.shields.io/badge/Sparx%20Systems-Enterprise%20Architect-blue?style=for-the-badge)
-![UML](https://img.shields.io/badge/UML-000000?style=for-the-badge)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
-### Data & API Tools
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Bruno](https://img.shields.io/badge/Bruno-FFC56D?style=for-the-badge)
-
-### Software Skills
-![Network Programming](https://img.shields.io/badge/Network%20Programming-TCP%20%7C%20UDP-blue?style=for-the-badge)
-![IPC](https://img.shields.io/badge/IPC-Pipes-blue?style=for-the-badge)
-![Concurrent Programming](https://img.shields.io/badge/Concurrent%20Programming-Multithreading%20%7C%20Multiprocessing-green?style=for-the-badge)
-
----
-
-## 🤝 Soft Skills
-
-![Problem Solving](https://img.shields.io/badge/Problem%20Solving-FFAA00?style=for-the-badge)
-![Teamwork](https://img.shields.io/badge/Teamwork-1ABC9C?style=for-the-badge)
-![Communication](https://img.shields.io/badge/Communication-3498DB?style=for-the-badge)
-![Time Management](https://img.shields.io/badge/Time%20Management-E74C3C?style=for-the-badge)
-![Adaptability](https://img.shields.io/badge/Adaptability-9B59B6?style=for-the-badge)
-![Critical Thinking](https://img.shields.io/badge/Critical%20Thinking-F39C12?style=for-the-badge)
+- TCP / UDP Socket Programming  
+- Inter-Process Communication (Pipes, Shared Memory)  
+- Multithreading & Multiprocessing  
+- Concurrent Programming    
