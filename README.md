@@ -9,6 +9,15 @@
 
 ---
 
+## 🚀 About Me
+
+BSc Student in Computer Science and Engineering with strong interests in **network programming and concurrent systems**.  
+Experienced with multithreading, inter-process communication, and building networked applications.  
+
+I enjoy solving complex problems and implementing efficient, reliable software.
+
+---
+
 ## 💻 Languages
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
@@ -28,4 +37,4 @@
 - TCP / UDP Socket Programming  
 - Inter-Process Communication (Pipes, Shared Memory)  
 - Multithreading & Multiprocessing  
-- Concurrent Programming    
+- Concurrent Programming
