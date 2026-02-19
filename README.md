@@ -1,7 +1,9 @@
 <h1 align="center">Pedro Jerónimo</h1>
+<h3 align="center">Computer Science & Engineering Student @ Instituto Superior Técnico</h3>
+
 <p align="center">
 🎓 BSc in Computer Science and Engineering [18/20] <br>
-📍 Instituto Superior Técnico, Lisbon <br>
+📍 Lisbon, Portugal <br>
 ✉️ pedromanueljeronimo2005@gmail.com | 
 🔗 <a href="https://www.linkedin.com/in/pedro-jer%C3%B3nimo-416340374" target="_blank">LinkedIn</a> <br>
 </p>
@@ -12,8 +14,8 @@
 **Robotics Code Raul (2021 – 2023)**  
 - Member of the high school robotics team.  
 - Participated in two editions of the **National Robotics Festival**.  
-- Achieved **3rd place in the RoboCup Junior Rescue Line** and qualified for the **European RoboCup Junior** in 2023.  
-- Responsible for robot programming, sensor integration, and teamwork.
+- Achieved 🥉 **3rd place in the RoboCup Junior Rescue Line** and qualified for the **European RoboCup Junior** in 2023.  
+- Responsible for robot programming, sensor integration, and team coordination.
 
 ---
 
