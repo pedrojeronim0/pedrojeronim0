@@ -32,9 +32,9 @@ I enjoy solving complex problems and implementing efficient, reliable software.
 
 ---
 
-## 🛠 Technical Skills
+## 🛠 Systems & Networking
 
-- TCP / UDP Socket Programming  
-- Inter-Process Communication (Pipes, Shared Memory)  
-- Multithreading & Multiprocessing  
-- Concurrent Programming
+- TCP/UDP socket programming (client–server architectures)
+- Multithreading (POSIX threads, synchronization primitives)
+- Inter-Process Communication (pipes, shared memory, signals)
+- Concurrent & Parallel Programming
