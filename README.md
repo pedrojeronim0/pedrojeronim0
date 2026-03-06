@@ -3,7 +3,7 @@
 <p align="center">
 🎓 BSc Student in Computer Science and Engineering @ Instituto Superior Técnico [18/20] <br>
 📍 Lisbon, Portugal <br>
-✉️ pedromanueljeronimo2005@gmail.com | 
+✉️ pedro.jeronimo@tecnico.ulisboa.pt | 
 🔗 <a href="https://www.linkedin.com/in/pedro-jer%C3%B3nimo-416340374" target="_blank">LinkedIn</a> <br>
 </p>
 
