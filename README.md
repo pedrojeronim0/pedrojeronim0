@@ -1,7 +1,7 @@
 <h1 align="center">Pedro Jerónimo</h1>
 
 <p align="center">
-🎓 BSc Student in Computer Science and Engineering @ Instituto Superior Técnico [18/20] <br>
+🎓 MSc Student in Computer Science and Engineering @ Instituto Superior Técnico [18/20] <br>
 📍 Lisbon, Portugal <br>
 ✉️ pedro.jeronimo@tecnico.ulisboa.pt | 
 🔗 <a href="https://www.linkedin.com/in/pedro-jer%C3%B3nimo-416340374" target="_blank">LinkedIn</a> <br>
@@ -11,7 +11,7 @@
 
 ## 🚀 About Me
 
-BSc Student in Computer Science and Engineering with strong interests in **network programming and concurrent systems**.  
+MSc Student in Computer Science and Engineering with strong interests in **network programming and concurrent systems**.  
 Experienced with multithreading, inter-process communication, and building networked applications.  
 
 I enjoy solving complex problems and implementing efficient, reliable software.
